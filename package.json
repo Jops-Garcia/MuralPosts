@@ -1,0 +1,27 @@
+{
+  "name": "MuralPosts",
+  "version": "1.0.0",
+  "description": "Login, cadastro e post para aula de DW.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jops-Garcia/login.git"
+  },
+  "keywords": [
+    "web",
+    "development"
+  ],
+  "author": "Joao Pedro Garcia Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jops-Garcia"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
