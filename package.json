@@ -1,5 +1,5 @@
 {
-  "name": "aulasdw",
+  "name": "muralposts",
   "version": "1.0.0",
   "description": "Aulas de desenvolvimento web para BSI.",
   "main": "app.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fboldt/aulasdw.git"
+    "url": "git+https://github.com/Jops-Garcia/MuralPosts.git"
   },
   "keywords": [
     "web",
     "development"
   ],
-  "author": "Francisco Boldt",
+  "author": "Joao Pedro Garcia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fboldt/aulasdw/issues"
+    "url": "https://github.com/Jops-Garcia/MuralPosts/issues"
   },
-  "homepage": "https://github.com/fboldt/aulasdw#readme",
+  "homepage": "https://github.com/Jops-Garcia/MuralPosts",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.2",
